@@ -42,6 +42,10 @@ and you may also need PyJulia
 $ python3 -m pip install --user julia
 ```
 
+You may wish to consult the documentation for
+[LaplaceInterpolation.py](https://vishwas1984.github.io/LaplaceInterpolation.jl/dev)
+since at present, this package does not have its own documentation.
+
 # Acknowledgment
 
 This material is based upon work supported by the U.S. Department of Energy, Office
