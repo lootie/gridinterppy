@@ -1,5 +1,5 @@
-# multitaperpy
-Wraps the Multitaper.jl package so as to work in python
+# gridinterppy
+Wraps the LaplaceInterpolation.jl package so as to work in python
 
 # Installation
 
