@@ -26,12 +26,14 @@ and you're good! Note that one might additionally require
 >>> jl = Julia(compiled_modules=False)
 ```
 
-before one accesses basic functionality, i.e.
+before one accesses basic functionality, i.e. here is a small example
 
 ```
-from gridinterppy import gridinterp 
+from gridinterppy import gridint
 import numpy as np
 
+x = np.reshape(np.random.rand(27), (3,3,3))
+a = gridint.matern_3d_grid(x,np.array([1,5]))
 ```
 
 and you may also need PyJulia
