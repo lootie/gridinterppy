@@ -1,7 +1,7 @@
 import LaplaceInterpolation
 import PyCall
 
-PyCall.PyObject(::typeof(LaplaceInterpolation.multispec)) =
+PyCall.PyObject(::typeof(LaplaceInterpolation.gridinterp)) =
     PyCall.pyfunctionret(LaplaceInterpolation.gridinterp,Any,Vararg{PyCall.PyAny})
 
 #=
