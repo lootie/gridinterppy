@@ -7,8 +7,8 @@ Please install using
 ```
 $ pip install -e git+https://github.com/lootie/gridinterppy.git#egg=gridinterppy
 ```
-Using multitaperpy requires that Julia is installed and in the path, along with
-[Multitaper.jl](https://github.com/vishwas1984/LaplaceInterpolation.jl) and
+Using gridinterppy requires that Julia is installed and in the path, along with
+[LaplaceInterpolation.jl](https://github.com/vishwas1984/LaplaceInterpolation.jl) and
 [PyCall.jl](https://github.com/JuliaPy/PyCall.jl). To install Julia, download a
 generic binary from the [JuliaLang site](https://julialang.org/) and 
 [add it to your path](https://julialang.org/downloads/platform/). To install Julia
