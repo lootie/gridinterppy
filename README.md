@@ -12,7 +12,7 @@ Using gridinterppy requires that Julia is installed and in the path, along with
 [PyCall.jl](https://github.com/JuliaPy/PyCall.jl). To install Julia, download a
 generic binary from the [JuliaLang site](https://julialang.org/) and 
 [add it to your path](https://julialang.org/downloads/platform/). To install Julia
-packages required for multitaperpy, open up Python interpreter then run:
+packages required for gridinterppy, open up Python interpreter then run:
 
 ```
 >>> import gridinterppy
