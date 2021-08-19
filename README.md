@@ -43,7 +43,7 @@ $ python3 -m pip install --user julia
 ```
 
 You may wish to consult the documentation for
-[LaplaceInterpolation.py](https://vishwas1984.github.io/LaplaceInterpolation.jl/dev)
+[LaplaceInterpolation.jl](https://vishwas1984.github.io/LaplaceInterpolation.jl/dev)
 since at present, this package does not have its own documentation.
 
 # Acknowledgment
